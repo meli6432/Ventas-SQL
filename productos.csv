@@ -1,0 +1,13 @@
+producto_id,nombre_producto,categoria,precio
+101,Auriculares Bluetooth,Tecnología,120000
+102,Teclado Mecánico,Tecnología,250000
+103,Mouse Inalámbrico,Tecnología,80000
+104,"Monitor 24""",Tecnología,650000
+105,Camiseta Básica,Ropa,45000
+106,Jeans,Ropa,120000
+107,Zapatos Deportivos,Ropa,180000
+108,Chaqueta,Ropa,220000
+109,Mochila Urbana,Accesorios,95000
+110,Reloj Digital,Accesorios,160000
+111,Gorra,Accesorios,35000
+112,Audífonos Gamer,Tecnología,300000
